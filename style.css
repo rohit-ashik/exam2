@@ -1,0 +1,47 @@
+body{
+    
+    width: 50%;
+    
+}
+
+
+
+
+.whole{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width: 600px;
+    border: 5px solid black;
+    outline: 20px solid #62306D;
+    background-color: #62306D;
+    margin-top: 20px ;
+}
+.first-btn{
+    width: 100px;
+    height: 100px;
+    background-color: #F7EC7D;
+    border-radius: 0px 0px 100px 100px;
+    margin-top: 10%;
+    margin-left: 50px;
+    
+}
+.second-btn{
+    width: 100px;
+    height: 100px;
+    background-color: #F7EC7D;
+    border-radius: 100px 100px 0px 0px;
+    margin-top: -24%;
+    margin-left: 50px;
+    
+}
+.third-btn{
+    width: 100px;
+    height: 100px;
+    background-color: #F7EC7D;
+    border-radius: 0px 0px 100px 100px;
+    margin-top: 10%;
+    margin-left: 50px;
+    
+}
